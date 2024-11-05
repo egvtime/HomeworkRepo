@@ -1,0 +1,6 @@
+git init
+git add hello.txt
+git commit -m "added hello.txt"
+git remote add origin https://github.com/egvtime/HomeworkRepo.git
+git clone https://github.com/egvtime/HomeworkRepo.git
+
